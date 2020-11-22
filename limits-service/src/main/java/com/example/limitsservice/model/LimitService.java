@@ -1,5 +1,8 @@
 package com.example.limitsservice.model;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class LimitService {
 	int minimum;
 	int maximum;
