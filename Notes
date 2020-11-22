@@ -1,0 +1,8 @@
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.2.11.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent> change the version and change spring cloud config server to Hoxton.SR9
+  
+  <spring-cloud.version>Hoxton.SR9</spring-cloud.version>
